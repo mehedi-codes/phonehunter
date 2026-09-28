@@ -1,12 +1,4 @@
-<div align="center">
-<img src="./src/assets/favicons/icon.png" width="50px"> 
-<h1> PhoneHunter </h1>
-
-<p><strong>A Simple Responsive & Interactive Phone Finding Website</strong> </p>
-
-[![wakatime](https://wakatime.com/badge/user/805ef0e4-46bb-49a3-bffc-fd6ca82758b5/project/430731f0-614e-42b9-80fb-6b1a6a8c4b46.svg)](https://wakatime.com/badge/user/805ef0e4-46bb-49a3-bffc-fd6ca82758b5/project/430731f0-614e-42b9-80fb-6b1a6a8c4b46)
-
-</div>
+![phonehunter](https://socialify.git.ci/mehedi-codes/phonehunter/image?description=1&font=KoHo&language=1&name=1&pattern=Solid&theme=Auto)
 
 ## Phone Search API
 
